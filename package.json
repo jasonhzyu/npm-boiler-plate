@@ -1,4 +1,6 @@
 {
+	"author": "Your Dad",
+	"description": "What a description!",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -10,5 +12,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"keywords": ["freecodecamp"],
+	"license": "MIT",
+	"version": "1.2"
 }
